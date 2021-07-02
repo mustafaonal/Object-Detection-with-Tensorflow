@@ -1,5 +1,7 @@
 # Object-Detection-wit-Tensorflow
 Custom object detection model with using Tensorflow, Mobilenet architecture used as Transfer Learning, Dataset and labels created with using openCV and https://github.com/tzutalin/labelImg
+virtual enviroment created in order to run files and download libraries and acces them quickly
+Jupyter Notebook used for this code, because capturing real-time images from webcam is difficult to run in Colab enviroment.
 
 absl-py
 0.13.0 argon2-cffi       
